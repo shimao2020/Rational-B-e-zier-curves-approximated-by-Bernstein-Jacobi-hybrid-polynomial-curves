@@ -1,0 +1,1 @@
+# Rational-B-e-zier-curves-approximated-by-Bernstein-Jacobi-hybrid-polynomial-curves
